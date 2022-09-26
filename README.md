@@ -27,7 +27,7 @@ Full control of your financial and employee data.
 ## Fintech Layers
 
 - Openbanking: `[mono, stitch.money, anchor]`
-- Payment rails: `[paystack, flutterwave]`
+- Payment rails: `[paystack, ExpressPayGH, flutterwave]`
 - Crypto rails: `[fluidcoins, lazerpay, coinprofile]`
 - Momo: `[MTN Momo API, MPesa]`
 
@@ -45,4 +45,14 @@ Full control of your financial and employee data.
 - [ ] Fintech Routes (Enable business to use specific route for Employee)
 - [ ] Schedule Execution of Payroll
 - [ ] Manage & View Transactions (Log for all executions triggered by the system)
+
+
+### Inspirations & Future scope
+Nice to haves, but will not be included in the intial PoC
+
+- <https://www.branchapp.com>
+- <https://bento.africa>
+- Support Wages: Use case for contractors and weekly wages (e.g. construction, security type businesses);
+- Salary Advance: Enable employees request for salary advances
+
 
