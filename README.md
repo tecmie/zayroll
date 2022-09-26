@@ -52,7 +52,7 @@ Nice to haves, but will not be included in the intial PoC
 
 - <https://www.branchapp.com>
 - <https://bento.africa>
-- Support Wages: Use case for contractors and weekly wages (e.g. construction, security type businesses);
+- Support Wages: Use case for contractors and weekly wages (e.g. construction, security, logistics type businesses);
 - Salary Advance: Enable employees request for salary advances
 
 
