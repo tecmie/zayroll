@@ -26,7 +26,7 @@ Full control of your financial and employee data.
 
 ## Fintech Layers
 
-- Openbanking: `[mono, stitch.money, anchor]`
+- Openbanking: `[mono, stitch.money, anchor, onepipe.com]`
 - Payment rails: `[paystack, ExpressPayGH, flutterwave]`
 - Crypto rails: `[fluidcoins, lazerpay, coinprofile]`
 - Momo: `[MTN Momo API, MPesa]`
